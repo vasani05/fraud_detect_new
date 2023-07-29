@@ -2,3 +2,6 @@ print("this is the model file that i have created and this is the file that i wo
 
 def model1():
     print("This is the new model that we have added to the file")
+
+def model2():
+    print("Testing this model")
